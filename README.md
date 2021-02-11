@@ -1,1 +1,1 @@
-# Tina
+# Example material for Tina participants
